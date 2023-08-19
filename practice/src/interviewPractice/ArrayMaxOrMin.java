@@ -3,7 +3,7 @@ package interviewPractice;
 public class ArrayMaxOrMin {
 
 	public static void main(String[] args) {
-		int n[]= {20,30,60,40,90,101};
+		int n[]= {20,30,60,40,90,102};
 	    int max=n[0];
 		for(int i=1;i<n.length;i++)
 		{
